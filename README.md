@@ -21,6 +21,11 @@ The Job Search Platform is designed to provide students with an easy-to-use inte
 - **Company Profiles Section:** Explore information about different companies.
 - **Easy Application Process:** Streamlined process for job applications.
 
+
+## Live Website
+```
+ job-search-platform.netlify.app
+```
 ## Setup
 
 1. **Clone the Repository:**
