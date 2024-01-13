@@ -23,9 +23,8 @@ The Job Search Platform is designed to provide students with an easy-to-use inte
 
 
 ## Live Website
-```
  job-search-platform.netlify.app
-```
+ 
 ## Setup
 
 1. **Clone the Repository:**
